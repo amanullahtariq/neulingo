@@ -1,10 +1,12 @@
-# neulingo
-
-Work in progress. Coming fairly soon to a github repository near you.
-
+<img src="www/images/neulogo.png" > </br>
 ## Idea
+An mockup app for helping newcomers in Freiburg, Germany and get rewards.
+Work in progress. Coming fairly soon to a github repository.
 
-![](public/screenshot.png)
+## Award
+Won 1st prize in Freiburg Hackathon 2016 (https://hackathon-freiburg.de/#hackathon-2016)
+
+<img src="www/images/award.jpg" width="300px">
 
 ## Technology
 * CSS frameworks, e.g. BootStrap
@@ -14,16 +16,13 @@ Work in progress. Coming fairly soon to a github repository near you.
 
 ## Team
 Muazzam Ali, Amanullah Tariq, Zaid ur Rehman, Shayan Jamal, Rozitha, Stefine 
-![](public/team.jpg)
 
 ## Contact
 #### Developer/Projects spokesman
 * Homepage: 
 * e-mail: 
-* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
 * other communication/social media
 
 ## License 
-* see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
 
 
